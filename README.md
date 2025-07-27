@@ -1,6 +1,6 @@
 # TypeScript Documentation
 
-## Cradet by Anisul Islam Sir
+## All my TypeScript knowledge is credited to Anisul Islam sir — his teaching made it all possible.
 
 
 ## Table of Contents
