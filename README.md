@@ -1,6 +1,7 @@
 # TypeScript Documentation
 
-- prerequisities: Javascript
+## Cradet by Anisul Islam Sir
+
 
 ## Table of Contents
 
